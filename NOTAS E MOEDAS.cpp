@@ -4,7 +4,7 @@ int main(){
 	double n;
 	int vira,notas,moedas;
 	cin>>n;
-		vira=n;
+		vira=n;// AQUI MINHA VARIAVEL DOUBLE VIRA UMA VARIAVEL INTEIRA.
 		n=n*100;
 		moedas=n;
 		cout<<"NOTAS:"<<endl;
